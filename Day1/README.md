@@ -48,3 +48,13 @@ Y = start up cost ($1000) for a pizza franchise
 Reference: Business Opportunity Handbook
 
 Visit [https://college.cengage.com/mathematics/brase/understandable_statistics/7e/students/datasets/slr/frames/frame.html](https://college.cengage.com/mathematics/brase/understandable_statistics/7e/students/datasets/slr/frames/frame.html) to download the dataset.
+
+## FILES 
+- [`LinearRegression.py`](LinearRegression.py) : Contains a python file that contains the implemention of a simple Linear Regression model without using Tensorflow, Keras, etc.
+- [`dataset.csv`](dataset.csv) : Contains the dataset used to train the model.  
+
+## VISUALIZING THE TEST RESULTS
+The final step is to visualize the test results and evaluate our model. We use matplotlib.pyplot to make Scatter Plots of our dataset and the Liner Regression plot shows how close is our model prediction. The following figure illustrates the scatter plot and prediction results.
+<p align="center">
+  <img src="https://github.com/pratyaksh10/100-Days-Of-AI/blob/master/Day1/eq.png">
+</p>
