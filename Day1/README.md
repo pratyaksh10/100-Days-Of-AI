@@ -56,5 +56,5 @@ Visit [https://college.cengage.com/mathematics/brase/understandable_statistics/7
 ## VISUALIZING THE TEST RESULTS
 The final step is to visualize the test results and evaluate our model. We use matplotlib.pyplot to make Scatter Plots of our dataset and the Liner Regression plot shows how close is our model prediction. The following figure illustrates the scatter plot and prediction results.
 <p align="center">
-  <img src="https://github.com/pratyaksh10/100-Days-Of-AI/blob/master/Day1/eq.png">
+  <img src="https://github.com/pratyaksh10/100-Days-Of-AI/blob/master/Day1/LR.png">
 </p>
